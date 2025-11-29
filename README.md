@@ -1,5 +1,6 @@
 # Poker-micro-project
 Analyse human decision-making under uncertainty in poker by predicting player actions (fold / call / raise) from hand features, and extract insights into cognitive patterns such as risk assessment, attention to salient information, and reward evaluation.
+
 Approach:
 - Used UCI poker Hand Dataset to extract key hand features: number of high cards, suitedness, maximum and minimum card ranks.
 - Simulated human-like actions based on hand strength to create fold/call/raise labels.
